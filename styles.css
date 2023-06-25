@@ -11,9 +11,14 @@
     
 
 }
-.link:hover{
+ .nav-link a:hover{
     color:#01bfa5;
    }
+
+.nav-item a:hover{
+       color:#01bfa5;
+      } 
+
 #name{
     color: #00c3a5;
     font-size: 30px;
@@ -157,3 +162,51 @@
  .clas5 h5{
     color: #00c3a5;
  }
+ .test h2{
+    color: #00c3a5;
+    text-align: center;
+    margin: 30px;
+ }
+.test h5{
+    text-align: center;
+}
+.fig{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+
+.fig a{
+    background-color: #3e83e0;
+    border:  solid 1px;
+    color: #d9f7f6;
+    margin-left: 200px;
+}
+.paragraphe h2{
+   margin: 50px;
+   text-align: center;
+
+}
+.paragraphe .link{
+    background-color: #3e83e0  ;
+    color: #d9f7f6;
+    text-align: center;
+    margin-left: 700px;
+    padding: 10px;
+    
+    
+}
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
